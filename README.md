@@ -2,7 +2,7 @@
 
 Hi, I'm Claire and welcome to my Github! 🎉
 
-I'm just fininshing up my chemistry PhD and have decided to move into the world of code with School of Code!
+I'm just fininshing up my chemistry PhD and have decided to become a full stack developer with School of Code!
 
 <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" style="height:3em"/>
 
