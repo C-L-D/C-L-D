@@ -4,8 +4,6 @@ Hi, I'm Claire and welcome to my Github! 🎉
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
-
 ## Tools:
 
 ### Languages
